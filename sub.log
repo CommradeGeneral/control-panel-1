@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.26)  8 SEP 2023 16:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.26)  9 SEP 2023 21:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1711,44 +1711,44 @@ LaTeX Info: Redefining \sffamily on input line 183.
 LaTeX Info: Redefining \ttfamily on input line 183.
 LaTeX Font Info:    Font shape `TU/Tahoma(2)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 183.
-File: drawing-1.pdf Graphic file (type pdf)
-<use drawing-1.pdf>
+File: drawings/drawing-1.pdf Graphic file (type pdf)
+<use drawings/drawing-1.pdf>
 LaTeX Font Info:    Font shape `TU/Tahoma(2)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 186.
 
 Missing character: There is no + ("2B) in font nullfont!
 Missing character: There is no b ("62) in font nullfont!
-File: Board 3.pdf Graphic file (type pdf)
-<use Board 3.pdf>
+File: drawings/Board 3.pdf Graphic file (type pdf)
+<use drawings/Board 3.pdf>
 [1
 
 ]
-File: drawing-1.pdf Graphic file (type pdf)
-<use drawing-1.pdf>
+File: drawings/drawing-1.pdf Graphic file (type pdf)
+<use drawings/drawing-1.pdf>
 
 Missing character: There is no + ("2B) in font nullfont!
 Missing character: There is no b ("62) in font nullfont!
-File: 1- Circuit Breakers (proj 2).pdf Graphic file (type pdf)
-<use 1- Circuit Breakers (proj 2).pdf>
+File: drawings/1- Circuit Breakers (proj 2).pdf Graphic file (type pdf)
+<use drawings/1- Circuit Breakers (proj 2).pdf>
 [2]
-File: drawing-1.pdf Graphic file (type pdf)
-<use drawing-1.pdf>
+File: drawings/drawing-1.pdf Graphic file (type pdf)
+<use drawings/drawing-1.pdf>
 
 Missing character: There is no + ("2B) in font nullfont!
 Missing character: There is no b ("62) in font nullfont!
-File: 2- Drive Circuits(proj 3 - 1 - 1).pdf Graphic file (type pdf)
-<use 2- Drive Circuits(proj 3 - 1 - 1).pdf>
+File: drawings/2- Drive Circuits(proj 3 - 1 - 1).pdf Graphic file (type pdf)
+<use drawings/2- Drive Circuits(proj 3 - 1 - 1).pdf>
 [3]
-File: drawing-1.pdf Graphic file (type pdf)
-<use drawing-1.pdf>
+File: drawings/drawing-1.pdf Graphic file (type pdf)
+<use drawings/drawing-1.pdf>
 
 Missing character: There is no + ("2B) in font nullfont!
 Missing character: There is no b ("62) in font nullfont!
-File: 4- artronic.pdf Graphic file (type pdf)
-<use 4- artronic.pdf>
+File: drawings/4- artronic.pdf Graphic file (type pdf)
+<use drawings/4- artronic.pdf>
 [4]
-File: drawing-1.pdf Graphic file (type pdf)
-<use drawing-1.pdf>
+File: drawings/drawing-1.pdf Graphic file (type pdf)
+<use drawings/drawing-1.pdf>
 
 Missing character: There is no + ("2B) in font nullfont!
 Missing character: There is no b ("62) in font nullfont!
@@ -1760,18 +1760,18 @@ Missing character: There is no b ("62) in font nullfont!
 > Step: execute table commands.
 > Step: do functional calculation.
 > Step: calculate cell and line sizes.
-File: 5- terminals.pdf Graphic file (type pdf)
-<use 5- terminals.pdf>
-File: 5- terminals.pdf Graphic file (type pdf)
-<use 5- terminals.pdf>
+File: drawings/5- terminals.pdf Graphic file (type pdf)
+<use drawings/5- terminals.pdf>
+File: drawings/5- terminals.pdf Graphic file (type pdf)
+<use drawings/5- terminals.pdf>
 
 Package tabularray Warning: Table width is too small, need 442.00246pt more!
 
 > Step: build the whole table.
-File: 5- terminals.pdf Graphic file (type pdf)
-<use 5- terminals.pdf>
-File: 5- terminals.pdf Graphic file (type pdf)
-<use 5- terminals.pdf>
+File: drawings/5- terminals.pdf Graphic file (type pdf)
+<use drawings/5- terminals.pdf>
+File: drawings/5- terminals.pdf Graphic file (type pdf)
+<use drawings/5- terminals.pdf>
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 10.00107pt on input line 211.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1803,20 +1803,20 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 > Step: execute table commands.
 > Step: do functional calculation.
 > Step: calculate cell and line sizes.
-File: 5- terminals (prt 2).pdf Graphic file (type pdf)
-<use 5- terminals (prt 2).pdf>
-File: 5- terminals (prt 2).pdf Graphic file (type pdf)
-<use 5- terminals (prt 2).pdf>
+File: drawings/5- terminals (prt 2).pdf Graphic file (type pdf)
+<use drawings/5- terminals (prt 2).pdf>
+File: drawings/5- terminals (prt 2).pdf Graphic file (type pdf)
+<use drawings/5- terminals (prt 2).pdf>
 > Step: build the whole table.
-File: 5- terminals (prt 2).pdf Graphic file (type pdf)
-<use 5- terminals (prt 2).pdf>
-File: 5- terminals (prt 2).pdf Graphic file (type pdf)
-<use 5- terminals (prt 2).pdf>
+File: drawings/5- terminals (prt 2).pdf Graphic file (type pdf)
+<use drawings/5- terminals (prt 2).pdf>
+File: drawings/5- terminals (prt 2).pdf Graphic file (type pdf)
+<use drawings/5- terminals (prt 2).pdf>
 
 Missing character: There is no ; ("3B) in font nullfont!
 [5]
-File: drawing-1.pdf Graphic file (type pdf)
-<use drawing-1.pdf>
+File: drawings/drawing-1.pdf Graphic file (type pdf)
+<use drawings/drawing-1.pdf>
 
 Missing character: There is no + ("2B) in font nullfont!
 Missing character: There is no b ("62) in font nullfont!
@@ -1828,29 +1828,29 @@ Missing character: There is no b ("62) in font nullfont!
 > Step: execute table commands.
 > Step: do functional calculation.
 > Step: calculate cell and line sizes.
-File: 6- Safety Circuit.pdf Graphic file (type pdf)
-<use 6- Safety Circuit.pdf>
-File: 6- Safety Circuit.pdf Graphic file (type pdf)
-<use 6- Safety Circuit.pdf>
-File: safety circuit 2.pdf Graphic file (type pdf)
-<use safety circuit 2.pdf>
-File: safety circuit 2.pdf Graphic file (type pdf)
-<use safety circuit 2.pdf>
+File: drawings/6- Safety Circuit.pdf Graphic file (type pdf)
+<use drawings/6- Safety Circuit.pdf>
+File: drawings/6- Safety Circuit.pdf Graphic file (type pdf)
+<use drawings/6- Safety Circuit.pdf>
+File: drawings/safety circuit 2.pdf Graphic file (type pdf)
+<use drawings/safety circuit 2.pdf>
+File: drawings/safety circuit 2.pdf Graphic file (type pdf)
+<use drawings/safety circuit 2.pdf>
 
 Package tabularray Warning: Table width is too small, need 146.33284pt more!
 
 > Step: build the whole table.
-File: 6- Safety Circuit.pdf Graphic file (type pdf)
-<use 6- Safety Circuit.pdf>
-File: 6- Safety Circuit.pdf Graphic file (type pdf)
-<use 6- Safety Circuit.pdf>
-File: safety circuit 2.pdf Graphic file (type pdf)
-<use safety circuit 2.pdf>
-File: safety circuit 2.pdf Graphic file (type pdf)
-<use safety circuit 2.pdf>
+File: drawings/6- Safety Circuit.pdf Graphic file (type pdf)
+<use drawings/6- Safety Circuit.pdf>
+File: drawings/6- Safety Circuit.pdf Graphic file (type pdf)
+<use drawings/6- Safety Circuit.pdf>
+File: drawings/safety circuit 2.pdf Graphic file (type pdf)
+<use drawings/safety circuit 2.pdf>
+File: drawings/safety circuit 2.pdf Graphic file (type pdf)
+<use drawings/safety circuit 2.pdf>
 [6]
-File: drawing-1.pdf Graphic file (type pdf)
-<use drawing-1.pdf>
+File: drawings/drawing-1.pdf Graphic file (type pdf)
+<use drawings/drawing-1.pdf>
 
 Missing character: There is no + ("2B) in font nullfont!
 Missing character: There is no b ("62) in font nullfont!
@@ -2337,9 +2337,9 @@ L3 programming layer <2023-06-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 55049 strings out of 476376
- 1384599 string characters out of 5799322
- 2106282 words of memory out of 5000000
+ 55050 strings out of 476376
+ 1385256 string characters out of 5799322
+ 2106291 words of memory out of 5000000
  74945 multiletter control sequences out of 15000+600000
  553730 words of font info for 193 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

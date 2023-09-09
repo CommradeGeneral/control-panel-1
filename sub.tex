@@ -136,7 +136,7 @@
 \NewDocumentEnvironment{drawingpage}{O{}s}
 	{\begin{tikzpicture}[#1]
 			\node [inner sep = 0pt] (my-page) {%
-		\includegraphics[scale=1]{drawing-1.pdf}};
+		\includegraphics[scale=1]{drawings/drawing-1.pdf}};
 	\node [inner sep = 0pt,anchor=west,scale=0.6] at 
 	($(my-page.south west) + (2.1213cm,2.917cm)$){%
 		M. Abdelmotalib%
@@ -183,23 +183,23 @@
 \begin{document}
 
 \begin{drawingpage}[title = {Control Panel layout}]
-	\node [scale =0.77,rotate = 90] at (paper center) {\includegraphics[scale=1]{Board 3.pdf}};
+	\node [scale =0.77,rotate = 90] at (paper center) {\includegraphics[scale=1]{drawings/Board 3.pdf}};
 \end{drawingpage}
 
 
 \begin{drawingpage}[title = {Circuit Breakers \& Rectifiers}]
-	\node [scale =0.9] at (paper center) {\includegraphics[scale=1]{1- Circuit Breakers (proj 2).pdf}};
+	\node [scale =0.9] at (paper center) {\includegraphics[scale=1]{drawings/1- Circuit Breakers (proj 2).pdf}};
 \end{drawingpage}
 
 \begin{drawingpage}[title = {Motor Drive wiring}]
-	\node [scale =0.9] at (paper center) {\includegraphics[scale=1]{2- Drive Circuits(proj 3 - 1 - 1).pdf}};
+	\node [scale =0.9] at (paper center) {\includegraphics[scale=1]{drawings/2- Drive Circuits(proj 3 - 1 - 1).pdf}};
 \end{drawingpage}
 
 
 
 
 \begin{drawingpage}[title = {main board wiring(semi-auto)}]
-	\node [scale =0.9] at (paper center) {\includegraphics[scale=1]{4- artronic.pdf}};
+	\node [scale =0.9] at (paper center) {\includegraphics[scale=1]{drawings/4- artronic.pdf}};
 \end{drawingpage}
 
 
@@ -207,13 +207,13 @@
 	\node [anchor=south,scale = 0.9] at (paper center) {%
 	\begin{tblr}{colspec={|c|},cell{1}{1}={bg=red!30!black,fg=white}} \hline
 	main terminal block \\ 
-	\includegraphics[scale=0.55]{5- terminals.pdf} \\ \hline
+	\includegraphics[scale=0.55]{drawings/5- terminals.pdf} \\ \hline
 	\end{tblr}
 	};
 	\node [anchor=north,scale =0.9] at (paper center) {%
 	\begin{tblr}{colspec={|c|},cell{1}{1}={bg=red!30!black,fg=white}} \hline
 	Side terminal block \\ 
-	\includegraphics[scale=0.55]{5- terminals (prt 2).pdf} \\ \hline
+	\includegraphics[scale=0.55]{drawings/5- terminals (prt 2).pdf} \\ \hline
 	\end{tblr}
 	};;
 \end{drawingpage}
@@ -222,8 +222,8 @@
 	\node [scale =0.9] at (paper center) {
 		\begin{tblr}{colspec={|c||c|},cell{1}{1,2}={bg=red!30!black,fg=white}}
 			Safety Circuit & Safety relays o/p with inspection circuit \\
-			\includegraphics[scale=1]{6- Safety Circuit.pdf} & 
-			\includegraphics[scale=1]{safety circuit 2.pdf}
+			\includegraphics[scale=1]{drawings/6- Safety Circuit.pdf} & 
+			\includegraphics[scale=1]{drawings/safety circuit 2.pdf}
 			\\ \hline
 		\end{tblr}
 	};
