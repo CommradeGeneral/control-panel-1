@@ -1,48 +1,77 @@
-			%\hline \SetCell[c=5]{m} Power terminals			
-			%\\
+			\hline \SetCell[c=5]{m} Power terminals \& Neutral		
+			\\
 			 \hline
 			R
 				&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
-					\myanno{MAIN CB}{1} \\
+					\myannothick{MAIN CB}{1} \\
 					%\myanno[red]{BR3}{\textasciitilde1} \\
-					\myanno{Terminal Block}{R} \\
+					\myannothick{Terminal Block}{R} \\
 				\end{tblr} 
-				& 2
+				& 0
 				& \SetCell[r=3]{m} Three phase input to Main Circuit Breaker
 			\\
 			S
 				&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
-					\myanno[blue]{MAIN CB}{3} \\
+					\myannothick{MAIN CB}{3} \\
 					%\myanno[red]{BR3}{\textasciitilde1} \\
-					\myanno{Terminal Block}{S} \\
-				\end{tblr}  & 2
+					\myannothick{Terminal Block}{S} \\
+				\end{tblr}  & 0
 			\\
 			T
 				&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
-					\myanno{MAIN CB}{5} \\
+					\myannothick{MAIN CB}{5} \\
 					%\myanno[red]{BR3}{\textasciitilde1} \\
-					\myanno{Terminal Block}{T} \\
-				\end{tblr} & 2
+					%\myannothick[blue]{Terminal Block}{T} \\
+					\myannothick{Terminal Block}{T} \\
+				\end{tblr} & 0
 			\\
 			R1
 				&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
-					\myanno{MAIN CB}{2} \\
-					\myanno{F1}{1} \\
-					\myanno{Motor Drive}{R} \\
-				\end{tblr} & 3
+					\myannothick{MAIN CB}{2} \\
+					\myannothick{KMAIN}{1} \\
+					\myanno[red]{Em. KAS board}{PWR1} \\
+				\end{tblr} & 1
+				& \SetCell[r=3]{m,l} Three phase wires from breaker to KMAIN contactor
+				
 			\\
 			S1
 				&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
-					\myanno{MAIN CB}{4} \\
+					\myannothick{MAIN CB}{4} \\
 					%\myanno{F1}{1} \\
-					\myanno{Motor Drive}{S} \\
-				\end{tblr} & 3
+					\myannothick{KMAIN}{3} \\
+				\end{tblr} & 0
 			\\
 			T1
 				&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
-					\myanno{MAIN CB}{6} \\
-					\myanno{F2}{1} \\
-					\myanno{Motor Drive}{T} \\
-				\end{tblr} & 3
+					\myannothick{MAIN CB}{6} \\
+					%\myanno{F2}{1} \\
+					\myannothick{KMAIN}{5} \\
+				\end{tblr} & 0
+			\\
+			R2
+				&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+					\myannothick{KMAIN}{1} \\
+					%\myanno{F2}{1} \\
+					\myannothick{Motor Drive}{R} \\
+					\myanno[red]{F1}{1} \\
+					\myanno[red]{E.TR-2}{220} \\
+				\end{tblr} & 2
+				&  \SetCell[r=3]{m,l} Three phase wires from KMAIN contactor
+					to motor drive.
+			\\
+			S2
+				&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+					\myannothick{KMAIN}{3} \\
+					%\myanno{F2}{1} \\
+					\myannothick{Motor Drive}{S} \\
+				\end{tblr} & 0
+			\\
+			T2
+				&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+					\myannothick{KMAIN}{5} \\
+					%\myanno{F2}{1} \\
+					\myannothick{Motor Drive}{T} \\
+					\myanno[red]{F2}{1} \\
+				\end{tblr} & 1
 				
 %\textasciitilde1

@@ -1,0 +1,65 @@
+\hline \SetCell[c=5]{m} Contactors/relays and fan signals
+\\
+\hline
+R21
+	&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+		\myanno[red]{F1}{2}\\
+		\myanno[red]{TR-1}{220} \\
+		\myanno[red]{LOC}{13} \\
+		\myanno[red]{Artronic PCB board}{OCC} \\
+	\end{tblr} 
+	& 4
+	& 220 VAC for contactors and transformer
+\\
+COM
+	&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+		\myanno[red]{LOC}{14}\\
+		\myanno[red]{Motor Drive}{RC1} \\
+		\myanno[red]{Motor Drive}{RC2} \\
+		\myanno[red]{Motor Drive}{RC3} \\
+	\end{tblr} 
+	& 4
+	& Common terminal for KRUN/KBK outputs as well as FAN
+\\
+FAN
+	&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+		\myanno[red]{FAN}{1}\\
+		\myanno[red]{Motor Drive}{RA1} \\
+	\end{tblr}
+	& 2
+	& Fan signal from Motor Drive
+\\
+KRUN
+	&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+		\myanno[red]{KRUN}{A1}\\
+		\myanno[red]{Motor Drive}{RB1} \\
+	\end{tblr}
+	& 2
+	& Running signal from Motor Drive
+\\
+KBK
+	&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+		\myanno[red]{KBK}{A1}\\
+		\myanno[red]{Motor Drive}{RC1} \\
+	\end{tblr}
+	& 2
+	& Braking signal from Motor Drive
+	
+\\
+LIGHT
+	&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+		\myanno[red]{LIGHT}{A1}\\
+		\myanno[red]{Artronic PCB board}{C3} \\
+	\end{tblr}
+	& 2
+	& Light timer signal from Artronic PCB board
+	
+\\
+L
+	&\begin{tblr}{colspec={@{}Q[l,4.3cm]}}
+		\myanno[red]{F2}{2}\\
+		\myanno[red]{LIGHT}{13}\\
+		\myanno[red]{LIGHT}{13}\\
+		%\myanno[red]{Artronic PCB board}{C3} \\
+	\end{tblr}
+	
